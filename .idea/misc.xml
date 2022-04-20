@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.348550356725219" />
+        <entry key="app/src/main/res/layout/fragment_blank.xml" value="0.40383844790251355" />
+        <entry key="app/src/main/res/layout/fragment_four.xml" value="0.20337677001953125" />
+        <entry key="app/src/main/res/layout/fragment_fullscreen.xml" value="0.17481884057971014" />
+        <entry key="app/src/main/res/layout/fragment_one.xml" value="0.25870142397673235" />
+        <entry key="app/src/main/res/layout/fragment_one1.xml" value="0.2916666666666667" />
+        <entry key="app/src/main/res/layout/fragment_scrolling.xml" value="0.27156566675158517" />
+        <entry key="app/src/main/res/layout/fragment_three.xml" value="0.4388153076171875" />
+        <entry key="app/src/main/res/layout/fragment_two.xml" value="0.18614130434782608" />
+        <entry key="app/src/main/res/layout/new_row.xml" value="0.35670077558876817" />
+        <entry key="app/src/main/res/layout/news_row.xml" value="0.6601340031278308" />
+        <entry key="app/src/main/res/layout/property_row.xml" value="0.25190124511718753" />
+        <entry key="app/src/main/res/layout/related_stories_row.xml" value="0.3133427053258039" />
+        <entry key="app/src/main/res/layout/top_stories_row.xml" value="0.3579253486965014" />
+        <entry key="app/src/main/res/layout/top_story_row.xml" value="0.3098958333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.348550356725219" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

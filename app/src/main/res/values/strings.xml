@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="newSource">Source</string>
+    <string name="smallDescription">smallDescription</string>
+    <string name="Source">TextView</string>
+    <string name="bigDescription">TextView</string>
+</resources>
